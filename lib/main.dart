@@ -5,6 +5,13 @@ import 'package:uysishi_10/controllers/note_controller.dart';
 import 'package:uysishi_10/controllers/plan_controller.dart';
 import 'package:uysishi_10/notifier/theme_notifier.dart';
 import 'package:uysishi_10/servise/auth_http_services.dart';
+import 'package:uysishi_10/views/course_screen.dart';
+import 'package:uysishi_10/views/home_screen.dart';
+import 'package:uysishi_10/views/login_screen.dart';
+import 'package:uysishi_10/views/note_screen.dart';
+import 'package:uysishi_10/views/plans_screen.dart';
+import 'package:uysishi_10/views/quiz_screen.dart';
+import 'package:uysishi_10/views/settings_screen.dart';
 
 
 void main() {
